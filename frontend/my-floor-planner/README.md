@@ -1,6 +1,3 @@
-# Floor-Planner-Application
-Floor Planner Application
-
 frontend code: just go inside the my-floor-planner and do npm run dev. 
 You can adjust the room items. 
 
